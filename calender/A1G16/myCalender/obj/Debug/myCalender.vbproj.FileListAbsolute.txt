@@ -45,3 +45,15 @@ C:\Users\ghugh\Desktop\mycal\myCalender\obj\Debug\myCalender.Form1.resources
 C:\Users\ghugh\Desktop\mycal\myCalender\obj\Debug\myCalender.Form2.resources
 C:\Users\ghugh\Desktop\mycal\myCalender\obj\Debug\myCalender.Resources.resources
 C:\Users\ghugh\Desktop\mycal\myCalender\obj\Debug\myCalender.vbproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\bin\Debug\myCalender.exe.config
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\obj\Debug\myCalender.exe
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\obj\Debug\myCalender.xml
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\obj\Debug\myCalender.pdb
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\obj\Debug\myCalender.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\obj\Debug\myCalender.Form1.resources
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\obj\Debug\myCalender.Form2.resources
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\obj\Debug\myCalender.Resources.resources
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\obj\Debug\myCalender.vbproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\bin\Debug\myCalender.exe
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\bin\Debug\myCalender.pdb
+C:\Users\Dell\Desktop\GITREPO\calender\A1G16\myCalender\bin\Debug\myCalender.xml
